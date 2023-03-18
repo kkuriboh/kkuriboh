@@ -1,13 +1,10 @@
-## hi 👋
+# Augusto
 
-### my name is augusto and im into:
+https://me.hatejs.dev
 
-- rust
-- typescript
-- wasm
-- vim
-- linux/bsd
-- math
+[linkedin](https://www.linkedin.com/in/augustopieper/)
+
+XMR: 46BC1kJnUQpLNNZz4tGSYrjWRXXiv7skeeGiN5cPa96reKHepnmZR6ZWWY7JGK4R2fcEzXXpq6c6cSEpGCr25pxsTJPxY6H
 
 <div>
 	<img height="240em" src="go_outside.png" alt="GO outside">
